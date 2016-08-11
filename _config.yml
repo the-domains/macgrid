@@ -1,0 +1,14 @@
+layout_spectrum: 0.830903994385153
+typography_spectrum: 0.33394001284614205
+color:
+  brandStrength: 0.1415317787323147
+  lightness: 0.7924791432451457
+  saturation: 0.18667308031581342
+  rhythmicContrast: 0.7116422532126307
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: MacGrid
